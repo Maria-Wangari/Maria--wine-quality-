@@ -79,3 +79,5 @@ This notebook is divided into four key milestones, each reflecting a standard ma
    ```bash
    git clone https://github.com/your-username/wine-quality-prediction.git
    # Maria--wine-quality-
+https://github.com/your-username/wine-quality-prediction.git
+jupyter notebook
