@@ -71,9 +71,7 @@ This notebook is divided into four key milestones, each reflecting a standard ma
 - **Top features:** Alcohol, Sulphates, Volatile Acidity
 - **Conclusion:** Model performs well and can guide wine quality assessment.
 
----
-
-## How to Run
+--
 
 1. Clone the repository:
    ```bash
